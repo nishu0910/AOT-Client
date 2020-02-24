@@ -1,0 +1,22 @@
+.userGrps{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 8px 6px -6px black;
+    padding: 16px;
+}
+
+.grpItem{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.grpItem:hover {
+    background:  rgba(76, 139, 175, 0.733);;
+}

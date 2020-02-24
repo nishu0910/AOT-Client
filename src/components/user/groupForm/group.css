@@ -1,0 +1,11 @@
+.create-grp{
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 8px 6px -6px black;
+    padding: 16px;
+}
+
+.form-control{
+    width:30%;
+}
