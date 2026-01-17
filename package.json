@@ -11,7 +11,7 @@
     "react-dom": "^16.12.0",
     "react-facebook-login": "^4.1.1",
     "react-google-login": "^5.1.1",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "set PORT=44393 && react-scripts start",
